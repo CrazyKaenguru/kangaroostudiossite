@@ -1,0 +1,24 @@
+{
+  "name": "kangaroostudiossite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CrazyKaenguru/kangaroostudiossite.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CrazyKaenguru/kangaroostudiossite/issues"
+  },
+  "homepage": "https://github.com/CrazyKaenguru/kangaroostudiossite#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "nodemon": "^2.0.15"
+  }
+}
